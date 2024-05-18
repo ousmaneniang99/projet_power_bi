@@ -1,0 +1,19 @@
+Décrivons les fonctionnalités des outils suivants :
+
+SSiS: SQL Server Integration Services est une plateforme qui permet de générer des solutions de transformation et d’intégration de données au niveau de l’entreprise.
+  Il joue donc le rôle d’un ETL (Extract, Transform and load) et y ajoute toute une série d’outils pour monitorer la performance des processus d’extraction et de transformation de la donnée.
+  
+SSAS: Il permet de générer des cubes OLAP, données agrégées et multidimensionnelles. Il permet également d’implémenter des algorithmes de Data Mining.
+  
+SSRS : est l’outil de restitution des données. Il  permet de récupérer des rapports, fondés sur les données calculées par SSAS, sous forme de fichier Excel, PDF, Word ou HTML. 
+  
+Power BI: est un ensemble de services logiciels, d'applications et de connecteurs qui œuvrent ensemble pour transformer des sources de données disparates en informations visuelles immersives et interactives.
+  
+Power BI Desktop: C'est une application client-serveur gratuite que l'on peut télécharger sur le site internet Microsoft et l'installer sur son PC.
+  
+Power BI Service est une plateforme collaborative développée par Microsoft, complémentaire à l’application Power BI Desktop.
+Elle offre la possibilité à ses utilisateurs de consommer, partager, actualiser ou distribuer des rapports, des jeux de données ou encore des tableaux de bord Power BI.
+Afin d'accéder aux services de Power BI, il est nécessaire de détenir un compte Power BI Pro ou Power BI Premium.
+Les principales fonctionnalités de Power BI Service sont : La page d'accueil, les favoris, la catégorie "récent", etc...
+
+Power BI Mobile: C'est la version mobile de la plateforme de Business Intelligence de Microsoft
